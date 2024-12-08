@@ -1,0 +1,163 @@
+[
+	{
+		"id": 1,
+		"name": "Apple",
+		"hungerRestored": 4,
+		"saturation": 2.4
+	},
+	{
+		"id": 2,
+		"name": "Golden Apple",
+		"hungerRestored": 4,
+		"saturation": 9.6,
+		"specialEffects": ["Regeneration", "Absorption"]
+	},
+	{
+		"id": 3,
+		"name": "Enchanted Golden Apple",
+		"hungerRestored": 4,
+		"saturation": 9.6,
+		"specialEffects": [
+			"Regeneration",
+			"Absorption",
+			"Fire Resistance",
+			"Resistance"
+		]
+	},
+	{
+		"id": 4,
+		"name": "Baked Potato",
+		"hungerRestored": 5,
+		"saturation": 6.0
+	},
+	{
+		"id": 5,
+		"name": "Beef (Raw)",
+		"hungerRestored": 3,
+		"saturation": 1.8
+	},
+	{
+		"id": 6,
+		"name": "Beef (Cooked)",
+		"hungerRestored": 8,
+		"saturation": 12.8
+	},
+	{
+		"id": 7,
+		"name": "Bread",
+		"hungerRestored": 5,
+		"saturation": 6.0
+	},
+	{
+		"id": 8,
+		"name": "Carrot",
+		"hungerRestored": 3,
+		"saturation": 3.6
+	},
+	{
+		"id": 9,
+		"name": "Golden Carrot",
+		"hungerRestored": 6,
+		"saturation": 14.4
+	},
+	{
+		"id": 10,
+		"name": "Chicken (Raw)",
+		"hungerRestored": 2,
+		"saturation": 1.2,
+		"specialEffects": ["Risk of Food Poisoning"]
+	},
+	{
+		"id": 11,
+		"name": "Chicken (Cooked)",
+		"hungerRestored": 6,
+		"saturation": 7.2
+	},
+	{
+		"id": 12,
+		"name": "Cookie",
+		"hungerRestored": 2,
+		"saturation": 0.4
+	},
+	{
+		"id": 13,
+		"name": "Fish (Raw)",
+		"hungerRestored": 2,
+		"saturation": 0.4
+	},
+	{
+		"id": 14,
+		"name": "Fish (Cooked)",
+		"hungerRestored": 5,
+		"saturation": 6.0
+	},
+	{
+		"id": 15,
+		"name": "Melon Slice",
+		"hungerRestored": 2,
+		"saturation": 1.2
+	},
+	{
+		"id": 16,
+		"name": "Mushroom Stew",
+		"hungerRestored": 6,
+		"saturation": 7.2
+	},
+	{
+		"id": 17,
+		"name": "Porkchop (Raw)",
+		"hungerRestored": 3,
+		"saturation": 1.8
+	},
+	{
+		"id": 18,
+		"name": "Porkchop (Cooked)",
+		"hungerRestored": 8,
+		"saturation": 12.8
+	},
+	{
+		"id": 19,
+		"name": "Potato",
+		"hungerRestored": 1,
+		"saturation": 0.6
+	},
+	{
+		"id": 20,
+		"name": "Pumpkin Pie",
+		"hungerRestored": 8,
+		"saturation": 4.8
+	},
+	{
+		"id": 21,
+		"name": "Rabbit Stew",
+		"hungerRestored": 10,
+		"saturation": 12.0
+	},
+	{
+		"id": 22,
+		"name": "Rotten Flesh",
+		"hungerRestored": 4,
+		"saturation": 0.8,
+		"specialEffects": ["Risk of Hunger Effect"]
+	},
+	{
+		"id": 23,
+		"name": "Spider Eye",
+		"hungerRestored": 2,
+		"saturation": 3.2,
+		"specialEffects": ["Poison"]
+	},
+	{
+		"id": 24,
+		"name": "Steak",
+		"hungerRestored": 8,
+		"saturation": 12.8
+	},
+	{
+		"id": 25,
+		"name": "Suspicious Stew",
+		"hungerRestored": 6,
+		"saturation": 7.2,
+		"specialEffects": ["Varies depending on flower used"]
+	}
+]
